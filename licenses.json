@@ -18,7 +18,7 @@
       "token": "PRUEBA-001",
       "device_id": "",
       "expires": "2026-03-09",
-      "active": false,
+      "active": true,
       "plan": "PRUEBA"
     },
     {
@@ -31,8 +31,8 @@
     {
       "token": "MAGDA-001",
       "device_id": "",
-      "expires": "2026-03-09",
-      "active": false,
+      "expires": "2026-03-06",
+      "active": true,
       "plan": "PRUEBA"
     }
   ]
