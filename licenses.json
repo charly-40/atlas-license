@@ -9,7 +9,7 @@
     },
         {
       "token": "ATL-CHARLY001",
-      "device_id": "",
+      "device_id": "5bde022e96820ce753838c5beeda397cc1b823c187a7ee015f4134ee4fdec7fe",
       "expires": "2026-12-31",
       "active": true,
       "plan": "annual"
