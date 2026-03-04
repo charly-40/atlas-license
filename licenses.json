@@ -18,6 +18,13 @@
       "token": "PRUEBA-001",
       "device_id": "",
       "expires": "2026-03-09",
+      "active": false,
+      "plan": "PRUEBA"
+    },
+    {
+      "token": "SAUL-001",
+      "device_id": "",
+      "expires": "2026-03-15",
       "active": true,
       "plan": "PRUEBA"
     }
