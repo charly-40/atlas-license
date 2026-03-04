@@ -30,7 +30,7 @@
     },
     {
       "token": "MAGDA-001",
-      "device_id": "",
+      "device_id": "a605ca5f4762b3f6c2226381546a720fb08576550ac93ade6988370f39acb673",
       "expires": "2026-03-06",
       "active": true,
       "plan": "PRUEBA"
