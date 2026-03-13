@@ -48,6 +48,13 @@
       "expires": "2026-12-31",
       "active": true,
       "plan": "annual"
+    },
+     {
+      "token": "ERICOCHOA",
+      "device_id": "",
+      "expires": "2026-04-12",
+      "active": true,
+      "plan": "annual"
     }
   ]
 }
