@@ -55,6 +55,41 @@
       "expires": "2026-04-12",
       "active": true,
       "plan": "annual"
-    }
+    },
+    {
+      "token": "FABIAN-001",
+      "device_id": "",
+      "expires": "2026-03-31",
+      "active": true,
+      "plan": "PRUEBA"
+     },
+    {
+      "token": "PRUEBA-002",
+      "device_id": "",
+      "expires": "2027-04-30",
+      "active": true,
+      "plan": "PRUEBA"
+     },
+    {
+      "token": "PRUEBA-003",
+      "device_id": "",
+      "expires": "2027-04-30",
+      "active": true,
+      "plan": "PRUEBA"
+     },
+    {
+      "token": "PRUEBA-004",
+      "device_id": "",
+      "expires": "2027-04-30",
+      "active": true,
+      "plan": "PRUEBA"
+     },
+    {
+      "token": "PRUEBA-005",
+      "device_id": "",
+      "expires": "2027-04-30",
+      "active": true,
+      "plan": "PRUEBA"
+     }
   ]
 }
