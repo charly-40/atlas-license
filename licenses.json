@@ -3,14 +3,14 @@
     {
       "token": "ATL-CHUCHO001",
       "device_id": "bae4e7c463a5c465968bbfc0a7d817e475e8778bd5b918d3a4683ed661a8a489",
-      "expires": "2026-05-31",
+      "expires": "2026-04-10",
       "active": true,
       "plan": "annual"
      },
       {
       "token": "ATL-CHARLY001",
       "device_id": "c7fcf86a5ff8d24be365bc35ed2aec877942f47499c0d113fb2bd0464dcee1a8",
-      "expires": "2026-12-31",
+      "expires": "2027-12-31",
       "active": true,
       "plan": "annual"
     },
@@ -31,7 +31,7 @@
     {
       "token": "MAGDA-001",
       "device_id": "a605ca5f4762b3f6c2226381546a720fb08576550ac93ade6988370f39acb673",
-      "expires": "2027-03-31",
+      "expires": "2026-04-13",
       "active": true,
       "plan": "PRUEBA"
      },
