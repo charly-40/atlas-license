@@ -22,7 +22,7 @@
       "plan": "PRUEBA"
     },
     {
-      "token": "SAUL-001",
+      "token": "PRUEBA-006",
       "device_id": "",
       "expires": "2026-03-15",
       "active": true,
@@ -43,21 +43,21 @@
       "plan": "annual"
     },
      {
-      "token": "ADANPALACIOS",
+      "token": "PRUEBA-007",
       "device_id": "",
       "expires": "2026-12-31",
       "active": true,
       "plan": "annual"
     },
      {
-      "token": "ATL-FIDEL001",
+      "token": "PRUEBA-008",
       "device_id": "",
       "expires": "2026-04-12",
       "active": true,
       "plan": "annual"
     },
     {
-      "token": "FABIAN-001",
+      "token": "PRUEBA-009",
       "device_id": "",
       "expires": "2026-03-31",
       "active": true,
