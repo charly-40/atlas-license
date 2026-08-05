@@ -23,7 +23,7 @@
     },
     {
       "token": "LILIANA-001",
-      "device_id": "",
+      "device_id": "5d5399b7c5af7b76ef6caa49cb54c2053746d0bed46da6572d25333c3222b229",
       "expires": "2026-12-15",
       "active": true,
       "plan": "PRUEBA"
