@@ -90,13 +90,13 @@
       "expires": "2027-04-30",
       "active": true,
       "plan": "PRUEBA"
-     }
+     },
     {
       "token": "GABY40203",
       "device_id": "",
       "expires": "2026-12-15",
       "active": true,
       "plan": "PRUEBA"
-    },
+    }
   ]
 }
