@@ -97,6 +97,20 @@
       "expires": "2026-12-15",
       "active": true,
       "plan": "PRUEBA"
-    }
+    }, 
+    {
+      "token": "PAULA_001",
+      "device_id": "",
+      "expires": "2027-12-31",
+      "active": true,
+      "plan": "PRUEBA"
+     },
+    {
+      "token": "PRUEBA-015",
+      "device_id": "",
+      "expires": "2027-04-30",
+      "active": true,
+      "plan": "PRUEBA"
+     }, 
   ]
 }
