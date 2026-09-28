@@ -72,10 +72,10 @@
      },
     {
       "token": "PRUEBA-003",
-      "device_id": "",
-      "expires": "2027-04-30",
+      "device_id": "9ce48b286646d0192d109042ea1fd2b46fa43b4ee63c0db9c1d356f97130b8c7",
+      "expires": "2029-04-30",
       "active": true,
-      "plan": "PRUEBA"
+      "plan": "PREMIUM FULL"
      },
     {
       "token": "PRUEBA-004",
